@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](https://logseq.com/#/page/post%201) and ![Image](src)
 ```
+[[logseq]] (https://asothot.github.io/Edenilson-L.R/)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
