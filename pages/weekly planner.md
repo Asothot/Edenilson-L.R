@@ -1,0 +1,8 @@
+-
+-
+- {{query((and [[inbox]] (not [[martes]] ) (not [[lunes]] )))}}
+- Lunes
+	- {{query((and [[LATER]] [[lunes]] ))}}
+- Martes
+	- {{query((and [[LATER]] [[martes]] ))}}
+-
